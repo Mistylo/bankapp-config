@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Damon Fisher - Developer"
+    email: "damon@eazybank.com"
+  onCallSupport:
+    - (412) 419-3490
+    - (915) 382-1998

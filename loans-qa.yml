@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank loans related QA APIs "
+  contactDetails:
+    name: "April Morgan - QA Lead"
+    email: "april@eazybank.com"
+  onCallSupport:
+    - (785) 545-7099
+    - (853) 546-3589

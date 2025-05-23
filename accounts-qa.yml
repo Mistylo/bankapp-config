@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Lora Ray - QA Lead"
+    email: "lora@eazybank.com"
+  onCallSupport:
+    - (666) 777-3324
+    - (666) 234-8563

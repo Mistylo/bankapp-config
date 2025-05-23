@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related docker APIs "
+  contactDetails:
+    name: "Jack Doe - Developer"
+    email: "jack@eazybank.com"
+  onCallSupport:
+    - (555) 555-1345
+    - (555) 514-1390
